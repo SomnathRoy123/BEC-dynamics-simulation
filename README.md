@@ -69,7 +69,7 @@ The simulation is controlled via `src/config.py` and executed via `main.py`.
 ## Project Structure
 
 ```text
-GPE-Solver/
+BEC-dynamics-simulation/
 ├── src/
 │   ├── config.py           # Physical constants and Grid generation
 │   ├── solver.py           # SSFM implementation (Real & Imaginary time)
