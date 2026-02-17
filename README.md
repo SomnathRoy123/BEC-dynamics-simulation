@@ -37,13 +37,6 @@ By transforming the kinetic operator into momentum space using FFT, the evolutio
 * **GPU Ready Structure:** Vectorized NumPy operations allow for easy porting to CuPy for GPU acceleration.
 * **Automated Visualization:** Generates phase and density evolution GIFs automatically.
 
-## Visual Results
-
-*(Placeholders - Upload your generated GIFs to the 'output' folder and uncomment these lines)*
-
-| Ground State Relaxation | Breathing Mode (Coupling Modulation) |
-|:-----------------------:|:------------------------------------:|
-| ![Ground State](output/ground_state.gif) | ![Dynamics](output/modulation.gif) |
 
 ## Installation
 
